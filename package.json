@@ -1,6 +1,6 @@
 {
   "type": "module",
-  "name": "fetchIp",
+  "name": "fetchip",
   "version": "1.0.0",
   "description": "",
   "main": "main.js",
